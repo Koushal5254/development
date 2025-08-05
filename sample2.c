@@ -7,6 +7,6 @@ int main()
     printf("Enter the second number: ");
     scanf("%d",&b);
     c=a/b;
-    printf("The division is: %d",c);
+    printf("The division is: %d",c); 
     return 0;
 }
